@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cometelo Restaurants</string>
+    <string name="register">Register</string>
+    <string name="signin">Sign in</string>
+    <string name="tagline">Own a virtual restaurant on cometelo</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "593639497147",
+    "firebase_url": "https://mealorderingapp-b99de.firebaseio.com",
+    "project_id": "mealorderingapp-b99de",
+    "storage_bucket": "mealorderingapp-b99de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593639497147:android:2057b5466d22e68f",
+        "android_client_info": {
+          "package_name": "com.example.marvellous.mealorderingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593639497147-g1cubt5hvm3ljr78lmfdkdfs9r708eom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marvellous.mealorderingapp",
+            "certificate_hash": "83d1fc3b1313d372c3fceeddda4a4380619a44dd"
+          }
+        },
+        {
+          "client_id": "593639497147-61mkk31ejkc8ir457lepbt138p07i1s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-isDhzpEL0ihlNQZSjac7b720Pa0fKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593639497147-61mkk31ejkc8ir457lepbt138p07i1s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593639497147:android:e53de6041a22d05e",
+        "android_client_info": {
+          "package_name": "com.example.marvellous.mealorderingapprestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593639497147-vbqejcjijgf8fdhu487tvjilh46dso7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marvellous.mealorderingapprestaurants",
+            "certificate_hash": "582e91c68db51063ad3e4e214c84bc8c67c7801b"
+          }
+        },
+        {
+          "client_id": "593639497147-61mkk31ejkc8ir457lepbt138p07i1s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-isDhzpEL0ihlNQZSjac7b720Pa0fKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593639497147-61mkk31ejkc8ir457lepbt138p07i1s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
